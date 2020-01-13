@@ -5,8 +5,8 @@ import sys
 from github import Github
 
 path = "E:/Repos/"
-username = "18ucc104@lnmiit.ac.in"
-password = "m1shra@2000"
+username = "" #username here
+password = "" #password here
 
 def create():
     folderName = str(sys.argv[1])
